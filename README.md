@@ -1,1 +1,3 @@
 # summarization-tool
+
+Our Summarizing Tool is now available in beta version! We're continuously working to improve this cutting-edge AI to make it more user-friendly and efficient. Our dedicated team is making regular updates every day to enhance the performance and accuracy of our summarization tool. Say goodbye to lengthy documents and information overload as we strive to provide you with a seamless and convenient summarization experience. Join us on this journey as we constantly refine and optimize our AI to ensure the best results. Try our Beta version now and stay tuned for exciting updates!
